@@ -22,6 +22,6 @@ You can also switch between **Gemini** and **Groq**, edit the model name, or ent
 ## Running the App
 
 ```bash
-cd /Users/mango/Documents/AICohort/WorkoutPlannerWithAI
+cd WorkoutPlannerWithAI
 uv run streamlit run app.py
 ```
